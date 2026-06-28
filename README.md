@@ -1,5 +1,24 @@
 # Seed Audio AI Generator & Sound Stage 🎵
 
+<p align="center">
+  <a href="https://bananapro.org/seed-audio">
+    <img src="https://img.shields.io/badge/Live%20Demo-Active-emerald?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <img src="https://img.shields.io/badge/Tech-React%20%7C%20TS-blue?style=for-the-badge&logo=react&logoColor=white" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/API-Gemini%20TTS-indigo?style=for-the-badge&logo=google&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
+</p>
+
+<p align="center">
+  <kbd>
+    <img src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1200&auto=format&fit=crop" width="750" alt="Seed Audio Interactive Sound Stage Studio Demonstration" />
+  </kbd>
+  <br>
+  <sub><i>🎥 Capture a screen-recording GIF demonstrating the interactive multi-track timeline, moving the Studio Mixer sliders, and clicking "Play Studio" to see the live spectrum jump and place it here!</i></sub>
+</p>
+
+> **⚡ Live Production Studio:** [https://bananapro.org/seed-audio](https://bananapro.org/seed-audio)
+
 An immersive, full-scene **Seed Audio** multi-track sound stage designed to generate realistic voiceovers, multi-speaker dialogue, environmental sound effects, dynamic atmospheric background pads, and background music beds simultaneously from a single descriptive prompt. 
 
 Powered by the latest **Doubao Seed Audio 1.0** (or **Bytedance Seed Audio**) workflows and integrated with **Gemini TTS** (`gemini-3.1-flash-tts-preview`) models, this interactive web studio serves as the ultimate **AI audio generator** and **AI voice generator** for video ads, storytelling, short dramas, audiobooks, podcasts, and localization.
