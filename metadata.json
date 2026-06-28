@@ -1,0 +1,6 @@
+{
+  "name": "Seed Audio AI Generator",
+  "description": "Create realistic voiceovers, multi-speaker dialogue, sound effects, ambience, and background music from one prompt using Doubao Seed Audio and Gemini technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
